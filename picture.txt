@@ -1,0 +1,173 @@
+
+<!DOCTYPE html> 
+<html> 
+
+<head> 
+<title> Martinez-Unit3 </title> 
+
+<style>
+body{
+	background-image:url(
+<!DOCTYPE html> 
+<html> 
+
+<head> 
+<title> Martinez-Unit3 </title> 
+
+<style>
+body{
+	background-image:url(http://upload.wikimedia.org/wikipedia/commons/1/12/Irl_PSRE_5d_1942_censor_to_GB.jpg);
+	background-size:cover
+}
+h1{
+color:#7f0000;
+font-family:Papyrus;
+text-align:center;
+font-size:24pt;
+}
+p{
+margin:auto;
+color:#41533b;
+font-size:18pt;
+width:300px;
+}
+figure{
+	float:left;
+}
+figcaption{
+	text-align: center;
+	color:#651a62;
+	font-size:14pt;
+	font-family:copperplate;
+}
+.row{
+	margin:auto;
+}
+</style> 
+
+</head> 
+
+	<body>
+<h1> Vintage Beauty </h1> 
+<div> 
+<p> 
+		This website is going to be about the most beautiful women in the century before us
+	who lived their lives to the fullest and became admirable people. They were the 
+	beauty that black and white consisted of, even before High-Definition was created. 
+</p> 
+</div>
+<div class="row">
+<figure>
+<a href="Marylin Monroe.html">
+<img src="MarylinMonroe.jpg" style="height:300px; width:250px; margin:50px; margin-left:150px"/>
+ </a>
+<figcaption>Marylin Monroe</figcaption>
+</figure>
+
+<figure>
+<a href="">
+<img src="AudreyHepburn.jpg" style="height:300px; width:250px; margin:50px"/>
+</a>
+<figcaption>Audrey Hepburn</figcaption>
+</figure>
+
+<figure>
+<a href="">
+<img src="http://upload.wikimedia.org/wikipedia/commons/a/a8/Elizabeth_Taylor_1953.JPG" style="height:300px; width:250; margin:50px"/>
+</a> 
+<figcaption> Elizabeth Taylor</figcaption>
+</figure>
+
+<figure>
+<a href="">
+<img src="NatalieWood.jpg" style="height:300px; width:250px; margin:50px"/>
+</a>
+<figcaption> Natalie Wood</figcaption> 
+</figure>
+</div>
+
+	</body> 
+
+
+
+
+
+
+);
+	background-size:cover
+}
+h1{
+color:#7f0000;
+font-family:Papyrus;
+text-align:center;
+font-size:24pt;
+}
+p{
+margin:auto;
+color:#41533b;
+font-size:18pt;
+width:300px;
+}
+figure{
+	float:left;
+}
+figcaption{
+	text-align: center;
+	color:#651a62;
+	font-size:14pt;
+	font-family:copperplate;
+}
+.row{
+	margin:auto;
+}
+</style> 
+
+</head> 
+
+	<body>
+<h1> Vintage Beauty </h1> 
+<div> 
+<p> 
+		This website is going to be about the most beautiful women in the century before us
+	who lived their lives to the fullest and became admirable people. They were the 
+	beauty that black and white consisted of, even before High-Definition was created. 
+</p> 
+</div>
+<div class="row">
+<figure>
+<a href="Marylin Monroe.html">
+<img src="MarylinMonroe.jpg" style="height:300px; width:250px; margin:50px; margin-left:150px"/>
+ </a>
+<figcaption>Marylin Monroe</figcaption>
+</figure>
+
+<figure>
+<a href="">
+<img src="AudreyHepburn.jpg" style="height:300px; width:250px; margin:50px"/>
+</a>
+<figcaption>Audrey Hepburn</figcaption>
+</figure>
+
+<figure>
+<a href="">
+<img src="http://upload.wikimedia.org/wikipedia/commons/a/a8/Elizabeth_Taylor_1953.JPG" style="height:300px; width:250; margin:50px"/>
+</a> 
+<figcaption> Elizabeth Taylor</figcaption>
+</figure>
+
+<figure>
+<a href="">
+<img src="NatalieWood.jpg" style="height:300px; width:250px; margin:50px"/>
+</a>
+<figcaption> Natalie Wood</figcaption> 
+</figure>
+</div>
+
+	</body> 
+
+
+
+
+
+
+</html>
