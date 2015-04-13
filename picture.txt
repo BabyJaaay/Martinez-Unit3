@@ -3,171 +3,55 @@
 <html> 
 
 <head> 
-<title> Martinez-Unit3 </title> 
+<title> Marylin Monroe </title> 
 
 <style>
 body{
-	background-image:url(
-<!DOCTYPE html> 
-<html> 
-
-<head> 
-<title> Martinez-Unit3 </title> 
-
-<style>
-body{
-	background-image:url(http://upload.wikimedia.org/wikipedia/commons/1/12/Irl_PSRE_5d_1942_censor_to_GB.jpg);
+	background-image:url(images.jpg);
 	background-size:cover
 }
-h1{
-color:#7f0000;
-font-family:Papyrus;
-text-align:center;
-font-size:24pt;
+h1{ 
+	color:#7f0000;
+	font-family:Papyrus;
+	text-align:center;
+	font-size:24pt;
 }
 p{
-margin:auto;
-color:#41533b;
-font-size:18pt;
-width:300px;
+	margin:auto;
+	color:#41533b;
+	font-size:14pt;
+	width:550px;
 }
 figure{
 	float:left;
 }
-figcaption{
-	text-align: center;
-	color:#651a62;
-	font-size:14pt;
-	font-family:copperplate;
-}
-.row{
-	margin:auto;
-}
 </style> 
-
 </head> 
+<body> 
+	<h1> Marylin Monroe </h1> 
 
-	<body>
-<h1> Vintage Beauty </h1> 
 <div> 
-<p> 
-		This website is going to be about the most beautiful women in the century before us
-	who lived their lives to the fullest and became admirable people. They were the 
-	beauty that black and white consisted of, even before High-Definition was created. 
+<p> 		Marylin Monroe was born on June 1, 1926, in Los Angeles, California. She was a film actress and 	
+ 		became one of Americas enduring sex symbol. Her mother gained some psychiatirc problems who was soon 
+		put into a mental hospital. Monroe never knew her father or met him in her life. Through out her childhood 
+		she lived in a foster home and an orphanage. When Marylin turned 11 years old, a family friend and husband
+		took her in. Monroe's mother was paying the Goddards family $25 weekly to raise her. The only memory that
+		Marylin had of her mother were her trying to smother her at night with a pillow. In 1942, the Goddards		
+		family soon had to move to the East Coast having to leave Monroe behind because they couldn't afford it.
+		On several occasions Marylin was sexually assualted when she was in the foster homes and her only solution 
+		was to get married. At the age of 16 Monroe married a guy Jimmy Dougherty, who was recently her boyffriend on
+		June 19, 1942. 
+		She dropped out of high school at the age of 15 then became married the year after. Her husband Jimmy Dougherty
+		a merchant marine was sent to South Pacific. Monroe was then discovered in Burbank, California by a photographer,
+		and buy the time that her husband returned in 1946, Marylin had already started preparing for her soon to be 
+		successful acting career. 
+
+		
 </p> 
 </div>
-<div class="row">
 <figure>
-<a href="Marylin Monroe.html">
-<img src="MarylinMonroe.jpg" style="height:300px; width:250px; margin:50px; margin-left:150px"/>
- </a>
-<figcaption>Marylin Monroe</figcaption>
-</figure>
-
-<figure>
-<a href="">
-<img src="AudreyHepburn.jpg" style="height:300px; width:250px; margin:50px"/>
-</a>
-<figcaption>Audrey Hepburn</figcaption>
-</figure>
-
-<figure>
-<a href="">
-<img src="http://upload.wikimedia.org/wikipedia/commons/a/a8/Elizabeth_Taylor_1953.JPG" style="height:300px; width:250; margin:50px"/>
-</a> 
-<figcaption> Elizabeth Taylor</figcaption>
-</figure>
-
-<figure>
-<a href="">
-<img src="NatalieWood.jpg" style="height:300px; width:250px; margin:50px"/>
-</a>
-<figcaption> Natalie Wood</figcaption> 
-</figure>
-</div>
-
-	</body> 
-
-
-
-
-
-
-);
-	background-size:cover
-}
-h1{
-color:#7f0000;
-font-family:Papyrus;
-text-align:center;
-font-size:24pt;
-}
-p{
-margin:auto;
-color:#41533b;
-font-size:18pt;
-width:300px;
-}
-figure{
-	float:left;
-}
-figcaption{
-	text-align: center;
-	color:#651a62;
-	font-size:14pt;
-	font-family:copperplate;
-}
-.row{
-	margin:auto;
-}
-</style> 
-
-</head> 
-
-	<body>
-<h1> Vintage Beauty </h1> 
-<div> 
-<p> 
-		This website is going to be about the most beautiful women in the century before us
-	who lived their lives to the fullest and became admirable people. They were the 
-	beauty that black and white consisted of, even before High-Definition was created. 
-</p> 
-</div>
-<div class="row">
-<figure>
-<a href="Marylin Monroe.html">
-<img src="MarylinMonroe.jpg" style="height:300px; width:250px; margin:50px; margin-left:150px"/>
- </a>
-<figcaption>Marylin Monroe</figcaption>
-</figure>
-
-<figure>
-<a href="">
-<img src="AudreyHepburn.jpg" style="height:300px; width:250px; margin:50px"/>
-</a>
-<figcaption>Audrey Hepburn</figcaption>
-</figure>
-
-<figure>
-<a href="">
-<img src="http://upload.wikimedia.org/wikipedia/commons/a/a8/Elizabeth_Taylor_1953.JPG" style="height:300px; width:250; margin:50px"/>
-</a> 
-<figcaption> Elizabeth Taylor</figcaption>
-</figure>
-
-<figure>
-<a href="">
-<img src="NatalieWood.jpg" style="height:300px; width:250px; margin:50px"/>
-</a>
-<figcaption> Natalie Wood</figcaption> 
-</figure>
-</div>
-
-	</body> 
-
-
-
-
-
-
-</html>
+<img src="mm.jpg" style="height:400px; width:350px; margin:250px"/>
+<img src="download.jpg" style="height:450px; width:350px; margin:250px"/> 
+</figure> 
+</body> 
+</html>
